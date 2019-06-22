@@ -1,4 +1,4 @@
-# slotMahine
+# slotMachine
 
 #Deploy contracts to blockchain : 
 
