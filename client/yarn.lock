@@ -2008,7 +2008,7 @@ cacache@^10.0.4:
     rimraf "^2.6.2"
     ssri "^5.2.4"
     unique-filename "^1.1.0"
-    y18n "^4.0.0"
+    y18n "^4.0.1"
 
 cacache@^11.0.2:
   version "11.2.0"
